@@ -1,0 +1,8 @@
+prefix=/home/yao/bzl_robot/src/Module/visual_project/simulation/thirdparty/generate_msgs/devel
+
+Name: simulation
+Description: Description of simulation
+Version: 0.0.0
+Cflags: -I/home/yao/bzl_robot/src/Module/visual_project/simulation/thirdparty/generate_msgs/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

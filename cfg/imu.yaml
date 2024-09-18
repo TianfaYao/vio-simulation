@@ -1,0 +1,48 @@
+%YAML:1.0
+---
+# acc
+# imu.fps: 200
+# imu.ba: [0,0,0]
+# imu.g: [0,0,-9.81]
+# imu.acc_noise_sigma: 0.01
+# imu.acc_bias_sigma: 1.0e-2
+# # # gyro
+# imu.bg: [0,0,0]
+# imu.gyro_noise_sigma: 0.0015
+# imu.gyro_bias_sigma: 1.0e-5
+
+
+imu.fps: 200
+imu.ba: [0,0,0]
+imu.g: [0,0,-9.81]
+# imu.acc_noise_sigma: 0.05
+# imu.acc_bias_sigma:  0.01
+imu.acc_noise_sigma: 0.0
+imu.acc_bias_sigma:  0.0
+# # gyro
+imu.bg: [0,0,0]
+# imu.gyro_noise_sigma: 0.005
+# imu.gyro_bias_sigma:  0.001
+imu.gyro_noise_sigma: 0.0
+imu.gyro_bias_sigma:  0.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

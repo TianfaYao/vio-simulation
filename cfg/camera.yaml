@@ -1,0 +1,26 @@
+%YAML:1.0
+---
+camera.type: PINHOLE
+camera.RGB: 0
+camera.fps: 10
+camera.track_noise: 0
+camera.max_features: 50
+camera.width: 752
+camera.height: 480
+camera.fx: 250
+camera.fy: 250
+camera.cx: 376
+camera.cy: 240
+camera.k1: 0
+camera.k2: 0
+camera.p1: 0
+camera.p2: 0
+
+camera.T_I_C: !!opencv-matrix
+   rows: 4
+   cols: 4
+   dt: d
+   data: [0, 0, 1, 0.1,
+          1, 0, 0, 0.05,
+          0, 1, 0, 0,
+          0, 0, 0, 1]
